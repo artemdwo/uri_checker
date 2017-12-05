@@ -1,0 +1,15 @@
+name: uri_checker
+description: A command-line application.
+version: 0.0.1
+homepage: https://www.artemdwo.com
+author: Artem Dvornichenko <artemdwo@gmail.com>
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dependencies:
+  http_client: "^0.2.2"
+  csv: "^3.1.2"
+
+dev_dependencies:
+  test: ^0.12.0
