@@ -37,6 +37,11 @@ Defines output CSV FILE to write the results into [```-o=path```]
 
 ```-o=path/to/new/csv_file.csv```
 
+### Tests
+Unit tests are available at ```test/``` directory.
+
+All tests could be executed at once by running: ```$ pub run test test/```
+
 ## License
 
 Available under a MIT License (see LICENSE file for details).
